@@ -87,6 +87,23 @@ carrusel(op: number): void {
         this.img6 = "/cafefrio.jpg";
         this.information6 = "capuchino caramelo <br> $65.00";
         break;
+
+        case 4:
+        this.img1 = "/pozolerojo.jpg";
+        this.information1 = "Pozole Rojo <br> $50.00";
+        this.img2 = "/consome.jpg";
+        this.information2 = "consome <br> $55.00";
+        this.img3 = "/enfrijoladas.jpg";
+        this.information3 = "Enfrijoladas <br> $80.00";
+        this.img4 = "/flautas.jpg";
+        this.information4 = "Flautas <br> $90.00";
+        this.img5 = "/guacamole.jpg";
+        this.information5 = "Guacamole <br> $60.00";
+        this.img6 = "/parrillada.jpg";
+        this.information6 = "Parrillada <br> $65.00";
+        break;
+
+
       }//fin swith
 
  }//fin del metodo carrusel
